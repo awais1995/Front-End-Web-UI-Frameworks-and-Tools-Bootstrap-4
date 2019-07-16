@@ -1,0 +1,53 @@
+Introduction:-
+Every project should have a specific set of goals 
+and associated benefits.... what are you trying 
+to accomplish, and why?
+ The right set of goals can ensure that your project 
+ suits a true development purpose,
+ and it creates a common purpose
+
+Design and implementation:-
+
+1 :- The design and actual realization of our project
+  guide is a document that includes
+ the design patterns for the future product. 
+It also describes all possible UI elements 
+and content types used, defining the rules 
+of how they should be arranged and work 
+with each other.
+
+2 :-  Any project, there will almost always
+ be unexpected problems and questions that crop up.
+ When these issues arise, you have to be ready to deal 
+with them, i have encountered data-toggle, carousel,
+or jquery issues when i run the code sometimes my code
+didn't work.
+
+3 :- In programming, a library is a collection of precompiled 
+routines that a program can use. The routines, 
+sometimes called modules, are stored in object format. 
+Libraries are particularly useful for storing frequently
+used routines because you do not need to explicitly 
+link them to every program that uses them.
+
+4 :- include a few screenshots of your websites in the report
+
+Conclusions
+
+1 :- A project is temporary in that it has a defined beginning 
+and end in time, and therefore defined
+ scope and resources in my bootstrap-4 project we realize that
+how to manage or analysis project assignments and deadlines
+
+2 :- In my bootstrap-4 project, then, is the application 
+of knowledge, skills, tools, and techniques to project activities 
+to meet the project requirements
+
+3 :- i think we create many things to do different in bootstrap-4
+project like jquery code.
+
+References:-
+
+in my opinion you go to https://www.youtube.com and type in
+the search box geeky shows open the first channel watch the
+tutorials.
